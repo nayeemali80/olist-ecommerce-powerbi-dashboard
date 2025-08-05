@@ -15,28 +15,28 @@ The dashboard is organized into **7 distinct report pages**, each focusing on a 
 Below are visual previews of the dashboard pages and data model:
 
 ### 🔹 Page 1: Overview  
-![Overview Page](images/page-1-overview.png)
+![Overview Page](Screenshots/page-1-overview.png)
 
 ### 🔹 Page 2: Sales Performance  
-![Sales Performance Page](images/page-2-sales-performance.png)
+![Sales Performance Page](Screenshots/page-2-sales-performance.png)
 
 ### 🔹 Page 3: Customer Analysis  
-![Customer Analysis Page](images/page-3-customer-analysis.png)
+![Customer Analysis Page](Screenshots/page-3-customer-analysis.png)
 
 ### 🔹 Page 4: Delivery & Operations  
-![Delivery and Operations Page](images/page-4-delivery-operations.png)
+![Delivery and Operations Page](Screenshots/page-4-delivery-operations.png)
 
 ### 🔹 Page 5: Reviews & Satisfaction  
-![Reviews & Satisfaction Page](images/page-5-reviews-satisfaction.png)
+![Reviews & Satisfaction Page](Screenshots/page-5-reviews-satisfaction.png)
 
 ### 🔹 Page 6: Payment Analysis  
-![Payment Analysis Page](images/page-6-payment-analysis.png)
+![Payment Analysis Page](Screenshots/page-6-payment-analysis.png)
 
 ### 🔹 Page 7: Filters / Controls  
-![Filters Page](images/page-7-filters-controls.png)
+![Filters Page](Screenshots/page-7-filters-controls.png)
 
 ### 🔸 Data Model (Schema View)  
-![Data Model View](images/data-model.png)
+![Data Model View](Screenshots/data-model.png)
 
 > 📌 All screenshots are taken from Power BI Desktop and cropped to focus on the dashboard canvas for clarity.
 
